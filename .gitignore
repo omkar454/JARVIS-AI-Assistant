@@ -1,0 +1,14 @@
+# Ignore the credentials.json file
+Credentials.json
+
+# Ignore the .env file
+.env
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore other files/folders that you don’t want to track
+.DS_Store   # macOS
+.vscode/    # VS Code settings folder
+.idea/      # JetBrains IDE settings folder
