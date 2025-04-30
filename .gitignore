@@ -9,6 +9,5 @@ __pycache__/
 *.pyc
 
 # Ignore other files/folders that you don’t want to track
-.DS_Store   # macOS
 .vscode/    # VS Code settings folder
 .idea/      # JetBrains IDE settings folder
