@@ -1,7 +1,3 @@
-Okay, I understand. You want the complete Markdown content of the `.md` file that you showed me initially.
-
-Here is the content again:
-
 ```markdown
 # 🔊 JARVIS: Personal Voice Assistant
 
@@ -14,7 +10,7 @@ Here is the content again:
 This project was developed as a **Second Year Engineering (S.E.) Mini Project** by the following team members:
 
 - **Rishi Notani** – [`@rishinotani`](https://github.com/rishinotani)  
-- **Suhani Poptani** – [`@suhanipoptani`](https://github.com/suhanipoptani)  
+- **Suhani Poptani** – [`@suhanipoptani`](https://github.com/suhanip152)  
 - **Sonal Sharma** – [`@sonal120sharma`](https://github.com/sonal120sharma)  
 - **Omkar Raut** – [`@omkar454`](https://github.com/omkar454)
 
@@ -52,7 +48,7 @@ This project was developed as a **Second Year Engineering (S.E.) Mini Project** 
 
 This file displays a futuristic loading screen with a progress bar, live system info, and boot logs.
 
-![Loading Screen](./screenshots/loading_screen.png)
+![Loading Screen](C:\Users\Omkar Raut\OneDrive\Desktop\PYTHON\loading_screen.png)
 
 ➡️ After progress is complete, the program transitions to:
 
@@ -69,7 +65,7 @@ This is the main frontend GUI where users interact with JARVIS via text prompts.
 - Voice and Text response system  
 - Fade-out effect on `goodbye` command
 
-![Main GUI](./screenshots/frontend_gui.png)
+![Main GUI](C:\Users\Omkar Raut\OneDrive\Desktop\PYTHON\main_screen.png)
 
 ---
 
@@ -121,6 +117,7 @@ These files handle **complex, individual tasks** and are all imported into `jarv
 ## ✅ Completed vs In Progress
 
 | Module                      | Status       |
+| Module                     | Status       |
 |----------------------------|--------------|
 | Email, WhatsApp, Calendar  | ✅ Completed |
 | File/folder management     | ✅ Completed |
@@ -148,8 +145,8 @@ pip install -r requirements.txt
 ```bash
 python intro.py
 ```
-
-➡️ Loading screen will appear
+➡️ The loading screen will appear.  
+➡️ Then, the GUI (`jarvis_frontend1.py`) will launch automatically.
 ➡️ Then GUI (`jarvis_frontend1.py`) will launch automatically
 
 ---
