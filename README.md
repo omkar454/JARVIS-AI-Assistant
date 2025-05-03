@@ -9,7 +9,7 @@
 
 This project was developed as a **Second Year Engineering (S.E.) Mini Project** by the following team members:
 
-- **Rishi Notani** – [`@rishinotani`](https://github.com/rishinotani)  
+- **Rishi Notani** – [`@Rishinotani99`](https://github.com/Rishinotani99)  
 - **Suhani Poptani** – [`@suhanip152`](https://github.com/suhanip152)  
 - **Sonal Sharma** – [`@sonal120sharma`](https://github.com/sonal120sharma)  
 - **Omkar Raut** – [`@omkar454`](https://github.com/omkar454)
